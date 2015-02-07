@@ -2433,7 +2433,10 @@ typis impreſſ Cum pri.
 nilegio ad imprimen<g ref="char:EOLhyphen"/>dum
 ſolum.</p>
             <p>ANNO. M.D.XLII.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:4574:51" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
       </back>
    </text>
